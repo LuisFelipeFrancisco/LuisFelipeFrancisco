@@ -28,5 +28,6 @@
 <img src="https://img.shields.io/badge/Kotlin-0095D5?&style=for-the-badge&logo=kotlin&logoColor=white" alt="Kotlin logo" title="Kotlin" height="30"/>&nbsp;
 <img src="https://img.shields.io/badge/ruby-%23CC342D.svg?style=for-the-badge&logo=ruby&logoColor=white" alt="Ruby logo" title="Ruby" height="30"/>&nbsp;
 <img src="https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white" alt="C# logo" title="C#" height="30"/>&nbsp;
-<br/><br/><br/>
+<br/><br/>
+---
 ![](https://komarev.com/ghpvc/?username=LuisFelipeFrancisco&label=Visitors&style=for-the-badge)
