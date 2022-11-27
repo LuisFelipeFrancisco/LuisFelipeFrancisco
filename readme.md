@@ -47,4 +47,4 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://www.linkedin.com/in/luisfelipeffferreira/" target="_blank"><img align="left" alt="luisfelipeffferreira | LinkedIn" width="22px" src="https://github.com/LuisFelipeFrancisco/Private/blob/main/linkedin.svg" />
+<a href="https://www.linkedin.com/in/luisfelipeffferreira/" target="_blank"><img align="left" alt="luisfelipeffferreira | LinkedIn" width="22px" src="https://github.com/Aakarsh-B/trying-repos/blob/master/linkedin.svg" />
