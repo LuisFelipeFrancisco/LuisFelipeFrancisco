@@ -33,7 +33,7 @@
 ---
 
 # 📈 Statistics 📈
-![Visitor Count](https://komarev.com/ghpvc/?username=LuisFelipeFrancisco&label=Visitors&style=for-the-badge)
+<!-- ![Visitor Count](https://komarev.com/ghpvc/?username=LuisFelipeFrancisco&label=Visitors&style=for-the-badge) -->
 <p align="center">
   <a href="https://github.com/LuisFelipeFrancisco">
     <img src="https://github-readme-stats.vercel.app/api?username=LuisFelipeFrancisco&show_icons=true&theme=github_dark&hide_border=true" />
