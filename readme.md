@@ -44,7 +44,7 @@
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=LuisFelipeFrancisco&layout=compact&hide=c,c%2B%2B,powershell&line_height=20&title_color=FFFFFF&icon_color=FFFFFF&text_color=FFFFFF&bg_color=0D1117" />
 
 ---
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://www.linkedin.com/in/luisfelipeffferreira/" target="_blank"><img align="left" alt="luisfelipeffferreira | LinkedIn" width="22px" src="https://github.com/Aakarsh-B/trying-repos/blob/master/linkedin.svg" />
+ 
+  <a href="https://www.data-card-for-spotify.com/card?user_id=trunkios">
+  <img src="https://www.data-card-for-spotify.com/api/card?user_id=trunkios" alt="Data Card for Spotify">
+</a>
