@@ -46,5 +46,5 @@
 ---
  
   <a href="https://www.data-card-for-spotify.com/card?user_id=trunkios">
-  <img src="https://www.data-card-for-spotify.com/api/card?user_id=trunkios" alt="Data Card for Spotify">
+  <img src="https://www.data-card-for-spotify.com/api/card?user_id=trunkios&hide_recents=1&hide_top_artists=1&hide_title=1" alt="Data Card for Spotify">
 </a>
