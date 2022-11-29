@@ -27,7 +27,9 @@
 <img src="https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=flutter&logoColor=white" alt="Flutter logo" title="Flutter" height="30"/>&nbsp;
 <img src="https://img.shields.io/badge/Kotlin-%230095D5.svg?style=for-the-badge&logo=kotlin&logoColor=white" alt="Kotlin logo" title="Kotlin" height="30"/>&nbsp;
 <img src="https://img.shields.io/badge/Ruby-%23CC342D.svg?style=for-the-badge&logo=ruby&logoColor=white" alt="Ruby logo" title="Ruby" height="30"/>&nbsp;
-<img src="https://img.shields.io/badge/Node.js-%2343853D.svg?style=for-the-badge&logo=node.js&logoColor=white" alt="Node.js logo" title="Node.js" height="30"/>&nbsp;<img src="https://img.shields.io/badge/Express.js-%23404d59.svg?style=for-the-badge" alt="Express.js logo" title="Express.js" height="30"/>&nbsp;<img src="https://img.shields.io/badge/nginx-%23009639.svg?style=for-the-badge&logo=nginx&logoColor=white" alt="nginx logo" title="nginx" height="30"/>&nbsp;
+<img src="https://img.shields.io/badge/Node.js-%2343853D.svg?style=for-the-badge&logo=node.js&logoColor=white" alt="Node.js logo" title="Node.js" height="30"/>&nbsp;
+<img src="https://img.shields.io/badge/Express.js-%23404d59.svg?style=for-the-badge" alt="Express.js logo" title="Express.js" height="30"/>&nbsp;
+<img src="https://img.shields.io/badge/nginx-%23009639.svg?style=for-the-badge&logo=nginx&logoColor=white" alt="nginx logo" title="nginx" height="30"/>&nbsp;
 <img src="https://img.shields.io/badge/.NET-%230095D5.svg?style=for-the-badge&logo=.net&logoColor=white" alt=".NET logo" title=".NET" height="30"/>&nbsp;
 
 ---
