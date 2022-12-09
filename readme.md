@@ -40,7 +40,7 @@
 <a href="https://github.com/LuisFelipeFrancisco">
 <img src="https://github-readme-stats.vercel.app/api?username=LuisFelipeFrancisco&show_icons=true&theme=github_dark&hide_border=true" /><img src="https://github-readme-streak-stats.herokuapp.com/?user=LuisFelipeFrancisco&theme=github-dark-blue&hide_border=true" />
 
-<!--   <img src="https://activity-graph.herokuapp.com/graph?username=LuisFelipeFrancisco&theme=react-dark" /> -->
+<!-- <img src="https://activity-graph.herokuapp.com/graph?username=LuisFelipeFrancisco&theme=react-dark" /> -->
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=LuisFelipeFrancisco&layout=compact&hide=c,c%2B%2B,powershell&line_height=20&title_color=FFFFFF&icon_color=FFFFFF&text_color=FFFFFF&bg_color=0D1117" />
 </a>
 </p>
