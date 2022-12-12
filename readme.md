@@ -37,20 +37,17 @@
 
 # 📈 Statistics 📈
 <!-- ![Visitor Count](https://komarev.com/ghpvc/?username=LuisFelipeFrancisco&label=Visitors&style=for-the-badge) -->
+<img src="https://github-readme-stats.vercel.app/api?username=LuisFelipeFrancisco&show_icons=true&theme=github_dark&hide_border=true" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=LuisFelipeFrancisco&theme=github-dark-blue&hide_border=true" />
+<img src="https://github-readme-activity-graph.cyclic.app/graph?username=LuisFelipeFrancisco&theme=react-dark&hide_border=true" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=LuisFelipeFrancisco&layout=compact&hide=c,c%2B%2B,powershell&line_height=20&title_color=FFFFFF&icon_color=FFFFFF&text_color=FFFFFF&bg_color=0D1117&hide_border=true" />
 
-<p align="center">
-    <img src="https://github-readme-stats.vercel.app/api?username=LuisFelipeFrancisco&show_icons=true&theme=github_dark&hide_border=true" />
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=LuisFelipeFrancisco&theme=github-dark-blue&hide_border=true" />
-    <!-- <img src="https://activity-graph.herokuapp.com/graph?username=LuisFelipeFrancisco&theme=react-dark" /> -->
-</p>
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=LuisFelipeFrancisco&layout=compact&hide=c,c%2B%2B,powershell&line_height=20&title_color=FFFFFF&icon_color=FFFFFF&text_color=FFFFFF&bg_color=0D1117&hide_border=true" />
-</p>
+---
 
- --- 
+<details>
+<summary>Currently Listening To: </summary>
+<a href="https://www.data-card-for-spotify.com/card?user_id=trunkios">
+    <img src="https://www.data-card-for-spotify.com/api/card?user_id=trunkios&hide_title=1" alt="Data Card for Spotify">
+</a>
+</details>
 
-<p align="center">
-    <a href="https://www.data-card-for-spotify.com/card?user_id=trunkios">
-        <img src="https://www.data-card-for-spotify.com/api/card?user_id=trunkios&hide_recents=1&hide_top_artists=1&hide_title=1" alt="Data Card for Spotify">
-    </a>
-</p>
