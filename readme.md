@@ -1,4 +1,3 @@
-<!-- ORIGINAL -->
 # Heyyo, I'm Felipe Ferreira! 👋👋
 ## Thanks for dropping by, hope you find some of my work interesting.
 
