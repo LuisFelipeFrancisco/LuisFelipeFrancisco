@@ -32,12 +32,11 @@
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=LuisFelipeFrancisco&layout=compact&hide=c,c%2B%2B,powershell&line_height=20&title_color=FFFFFF&icon_color=FFFFFF&text_color=FFFFFF&bg_color=0D1117&hide_border=true" />
 </details>
 
----
-
+<!--
 <details>
 <summary>Currently Listening To: </summary>
 <a href="https://www.data-card-for-spotify.com/card?user_id=trunkios">
     <img src="https://www.data-card-for-spotify.com/api/card?user_id=trunkios&hide_title=1" alt="Data Card for Spotify">
 </a>
 </details>
-
+-->
