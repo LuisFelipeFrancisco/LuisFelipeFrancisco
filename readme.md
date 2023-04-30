@@ -31,6 +31,7 @@
 <img src="https://github-readme-activity-graph.cyclic.app/graph?username=LuisFelipeFrancisco&theme=react-dark&hide_border=true&color=58A6FF&line=58A6FF" />
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=LuisFelipeFrancisco&langs_count=8&layout=compact&hide=c,c%2B%2B,powershell&exclude_repo=Python-Data-Science-Alura&line_height=20&title_color=FFFFFF&icon_color=FFFFFF&text_color=FFFFFF&bg_color=0D1117&hide_border=true" />
 
+
 <!--
 <details>
 <summary>Currently Listening To: </summary>
