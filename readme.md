@@ -32,3 +32,4 @@
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=LuisFelipeFrancisco&langs_count=8&layout=compact&hide=c,c%2B%2B,powershell&exclude_repo=Python-Data-Science-Alura&line_height=20&title_color=FFFFFF&icon_color=FFFFFF&text_color=FFFFFF&bg_color=0D1117&hide_border=true" />
 
 
+
