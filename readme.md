@@ -8,8 +8,8 @@
 
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=cs,dotnet,java,py,mysql,html,css,js,ts,angular" />
-    <img src="https://skillicons.dev/icons?i=visualstudio,vscode,eclipse,idea,git,github" />
+    <img src="https://skillicons.dev/icons?i=java,spring,cs,dotnet,py,html,css,js,ts,angular" />
+    <img src="https://skillicons.dev/icons?i=mysql,postgres,visualstudio,vscode,eclipse,idea,git,github" />
   </a>
 </p>
 
@@ -17,7 +17,7 @@
 
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=aws,azure,docker,kotlin,swift,flutter" />
+    <img src="https://skillicons.dev/icons?i=kafka,rabbitmq,aws,azure,docker" />
   </a>
 </p>
 
